@@ -6,4 +6,5 @@ Aroroy-PIS (Patient Information System) is a web-based healthcare management sys
 # Login Information
 Administrator
 Username: admin
+
 Password: admin123
